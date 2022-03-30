@@ -1,5 +1,6 @@
 updated in master branch
-Updated again..
+This line is updating in dev branch
+updated again..
 This file contain deploy script....
 
 just updated the file
