@@ -1,3 +1,4 @@
+Testing stash command
 updated in master branch
 This line is updating in dev branch
 updated again..
